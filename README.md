@@ -166,17 +166,19 @@ Creative Technology
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MWD842&show_icons=true&hide_border=true"
-    alt="Mowadah's GitHub Stats"
-  />
+
+<a href="https://github.com/MWD842">
+  <img src="https://img.shields.io/badge/GitHub-MWD842-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+</a>
+
+<a href="https://github.com/MWD842?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-3178C6?style=for-the-badge&logo=github" alt="View Repositories">
+</a>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWD842&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+  Explore my repositories to see my work across cybersecurity, backend development, frontend development, AI, and software projects.
 </p>
 
 
