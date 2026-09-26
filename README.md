@@ -166,16 +166,19 @@ Creative Technology
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MWD842&show_icons=true&hide_border=true&theme=transparent" alt="Mowadah's GitHub Stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MWD842&show_icons=true&hide_border=true"
+    alt="Mowadah's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MWD842&hide_border=true&theme=transparent" alt="GitHub Streak">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWD842&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MWD842&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
-</p>
 
 ---
 
