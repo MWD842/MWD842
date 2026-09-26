@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420">
+<img src="./assets/banner.gif" width="420">
 
 # Mowadah Al Waili
 
