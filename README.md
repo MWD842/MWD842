@@ -163,27 +163,6 @@ Creative Technology
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-
-<a href="https://github.com/MWD842">
-  <img src="https://img.shields.io/badge/GitHub-MWD842-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
-</a>
-
-<a href="https://github.com/MWD842?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-3178C6?style=for-the-badge&logo=github" alt="View Repositories">
-</a>
-
-</p>
-
-<p align="center">
-  Explore my repositories to see my work across cybersecurity, backend development, frontend development, AI, and software projects.
-</p>
-
-
----
-
 ## Connect
 
 <p align="center">
@@ -192,7 +171,12 @@ Creative Technology
   <img src="https://img.shields.io/badge/GitHub-MWD842-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
+<a href="https://www.linkedin.com/in/mowadah-al-waili-68555b386/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
 </p>
+
 
 ---
 
