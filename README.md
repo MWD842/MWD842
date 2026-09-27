@@ -15,7 +15,7 @@ Computer Science graduate with a Cybersecurity minor, working across backend, fr
 
 ---
 
-I build backend and frontend applications, work on AI powered tools, and do logo design and video production on the side. Based in Muscat, Oman.
+I build frontend and backend applications, work on AI powered tools, and do logo design and video production on the side. Based in Muscat, Oman.
 
 **Tech stack**
 
@@ -31,16 +31,20 @@ I build backend and frontend applications, work on AI powered tools, and do logo
 
 `React` `TypeScript` `Supabase` `VirusTotal API`
 
-[View Project](https://github.com/MWD842/Flawless)
+<p>
+  <a href="https://github.com/MWD842/Flawless">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project">
+  </a>
+</p>
+
 
 **Restaurant Ordering & Table Reservation**: a full-stack system built during the Rihal Spark to Code internship. My contributions covered menu categories, menu items, CRUD operations, filtering and sorting, Entity Framework Core, and email notification endpoints.
 
 `C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `REST API`
 
-[View Project](https://github.com/SparkToCode2026/Restaurant-Ordering-Table-Reservation_Team5)
+<p>
+  <a href="https://github.com/SparkToCode2026/Restaurant-Ordering-Table-Reservation_Team5">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View Project">
+  </a>
+</p>
 
----
-
-<div align="center">
-Building with code, security, AI, and creativity.
-</div>
